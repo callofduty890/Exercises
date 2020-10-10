@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_9_作业", "10_9_作业\10_9_作业.csproj", "{64D57881-20CC-4173-8476-A01B285F38D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_委托的异步调用", "01_委托的异步调用\01_委托的异步调用.csproj", "{187CD96A-B395-45D1-B809-2814D632C9D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{64D57881-20CC-4173-8476-A01B285F38D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64D57881-20CC-4173-8476-A01B285F38D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64D57881-20CC-4173-8476-A01B285F38D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187CD96A-B395-45D1-B809-2814D632C9D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187CD96A-B395-45D1-B809-2814D632C9D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187CD96A-B395-45D1-B809-2814D632C9D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187CD96A-B395-45D1-B809-2814D632C9D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
